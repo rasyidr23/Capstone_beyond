@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Beyond</string>
+    <string name="translate_text">Terjemahkan Isyarat dengan Mudah Menggunakan Kamera</string>
+    <string name="get_to">Pelajari Bahasa Isyarat Indonesia (BISINDO)</string>
+
+    <string name="camera_x">Scan</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Terjemahkan</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="deskripsi">
+         Beyond adalah aplikasi penerjemah bahasa isyarat indonesia (BISINDO)
+         yang dirancang untuk menjembatani komunikasi antara komunitas tuli dan pendengar.
+         Dengan Beyond, Anda dapat dengan mudah menerjemahkan bahasa isyarat menjadi teks
+         menggunakan gambar dari galeri atau secara langsung melalui kamera. Cukup ambil foto
+         tangan yang menunjukkan bahasa isyarat, atau arahkan kamera Anda pada seseorang yang
+         sedang berkomunikasi menggunakan bahasa isyarat, dan Beyond akan menerjemahkannya untuk
+         Anda.
+    </string>
+</resources>
