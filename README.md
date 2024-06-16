@@ -44,6 +44,7 @@ We hope that our application will empower users to connect with and support indi
   <img width="300" src="https://cdn.discordapp.com/attachments/1166702221770104904/1251781229267648542/IMG-20240616-WA0005.jpg?ex=666fd39e&is=666e821e&hm=daea66c9c321d69146bcbc71aac457f37c724de69c5fb973343b1fdd9bc98fc9&">
   <img width="300" src="https://cdn.discordapp.com/attachments/1166702221770104904/1251781229854982275/IMG-20240616-WA0007.jpg?ex=666fd39e&is=666e821e&hm=c86884c1109012e9924bc8931703687c048e79277549ec9c291ba80ab8f78381&">
 </div>
+<br><br>
 
 <div>
   <img width="300" src="https://cdn.discordapp.com/attachments/1166702221770104904/1251781230123548734/IMG-20240616-WA0008.jpg?ex=666fd39e&is=666e821e&hm=a5d8762ea022e5bb53059d10e4120802a52e5dd0092f3a6d0d2d553899e52463&">
