@@ -8,6 +8,7 @@ We hope that our application will empower users to connect with and support indi
 ## Features
 
 - image detection for sign language BISINDO using camera
+- image detection for sign language BISINDO using photo from galery
 - Exercises to hone sign language skills with the help of camera detection
 
 
